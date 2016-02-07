@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploAuth", "EjemploAuth\EjemploAuth.csproj", "{29C21B07-9767-4393-955F-D155EE0B4A5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{8D27A222-66AD-4C80-B571-AE3F0BB46B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{7E4FDF02-4077-4965-98D8-D0FCA5910ED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C21B07-9767-4393-955F-D155EE0B4A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C21B07-9767-4393-955F-D155EE0B4A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C21B07-9767-4393-955F-D155EE0B4A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C21B07-9767-4393-955F-D155EE0B4A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D27A222-66AD-4C80-B571-AE3F0BB46B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D27A222-66AD-4C80-B571-AE3F0BB46B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D27A222-66AD-4C80-B571-AE3F0BB46B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D27A222-66AD-4C80-B571-AE3F0BB46B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E4FDF02-4077-4965-98D8-D0FCA5910ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4FDF02-4077-4965-98D8-D0FCA5910ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4FDF02-4077-4965-98D8-D0FCA5910ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4FDF02-4077-4965-98D8-D0FCA5910ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
